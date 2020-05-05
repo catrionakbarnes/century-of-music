@@ -16,43 +16,43 @@ autosize: true
 - One point for each artist
 
 
-## Question 1
+## Question 1: 1920s
 <audio controls><source src="1920s.mp3" type="audio/mp3"></audio>
 <img src="1.jpg"></img>
 
-## Question 2
+## Question 2: 1930s
 <audio controls><source src="1930s.mp3" type="audio/mp3"></audio>
 <img src="2.jpg"></img>
 
-## Question 3
+## Question 3: 1940s
 <audio controls><source src="1940s.mp3" type="audio/mp3"></audio>
 <img src="3.jpg"></img>
 
-## Question 4
+## Question 4: 1950s
 <audio controls><source src="1950s.mp3" type="audio/mp3"></audio>
 <img src="4.jpg"></img>
 
-## Question 5
+## Question 5: 1960s
 <audio controls><source src="1960s.mp3" type="audio/mp3"></audio>
 <img src="5.jpg"></img>
 
-## Question 6
+## Question 6: 1970s
 <audio controls><source src="1970s.mp3" type="audio/mp3"></audio>
 <img src="6.jpg"></img>
 
-## Question 7
+## Question 7: 1980s
 <audio controls><source src="1980s.mp3" type="audio/mp3"></audio>
 <img src="7.jpg"></img>
 
-## Question 8
+## Question 8: 1990s
 <audio controls><source src="1990s.mp3" type="audio/mp3"></audio>
 <img src="8.jpg"></img>
 
-## Question 9
+## Question 9: 2000s
 <audio controls><source src="2000s.mp3" type="audio/mp3"></audio>
 <img src="9.jpg"></img>
 
-## Question 10
+## Question 10: 2010s
 <audio controls><source src="2010s.mp3" type="audio/mp3"></audio>
 <img src="10.jpg"></img>
 
