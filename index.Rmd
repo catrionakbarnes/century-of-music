@@ -1,0 +1,49 @@
+---
+title: "A Century of Music"
+date: 6 May 2020
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: libs
+    theme: black
+autosize: true
+---
+
+## Rules
+
+- There is one song for every decade from 1920s - 2020
+- One point for each song title
+- One point for each artist
+
+
+## Question 1
+<audio controls><source src="1920s.mp3" type="audio/mp3"></audio>
+
+## Question 2
+<audio controls><source src="1930s.mp3" type="audio/mp3"></audio>
+
+## Question 3
+<audio controls><source src="1940s.mp3" type="audio/mp3"></audio>
+
+## Question 4
+<audio controls><source src="1950s.mp3" type="audio/mp3"></audio>
+
+## Question 5
+<audio controls><source src="1960s.mp3" type="audio/mp3"></audio>
+
+## Question 6
+<audio controls><source src="1970s.mp3" type="audio/mp3"></audio>
+
+## Question 7
+<audio controls><source src="1980s.mp3" type="audio/mp3"></audio>
+
+## Question 8
+<audio controls><source src="1990s.mp3" type="audio/mp3"></audio>
+
+## Question 9
+<audio controls><source src="2000s.mp3" type="audio/mp3"></audio>
+
+## Question 10
+<audio controls><source src="2010s.mp3" type="audio/mp3"></audio>
+
+
